@@ -1,0 +1,10 @@
+hello,Hello how are you doing?
+no,Why so negative?
+you,This isn't about me.
+god,God is a very intricate subject.
+car,Always drive safely and never drink and drive.
+class,Stay in school kids!
+python,Python should just be a snake.
+morning,I live in a time and space so I have no morning
+me,You should be able to answer that better than I can.
+games,Depends on what game you are playing.
